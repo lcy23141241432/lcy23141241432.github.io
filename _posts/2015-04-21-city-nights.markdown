@@ -1,6 +1,6 @@
 ---
 title:  "바지"
-subtitle: ""
+subtitle: " "
 author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"

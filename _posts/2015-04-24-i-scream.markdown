@@ -1,6 +1,6 @@
 ---
 title:  "상의"
-subtitle: "But do you scream?"
+subtitle: " "
 author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"

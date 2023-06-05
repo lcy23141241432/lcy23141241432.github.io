@@ -1,10 +1,10 @@
 ---
 title:  "신발"
-subtitle: ""
+subtitle: " "
 author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   
 ---
 
 ### 캔버스
