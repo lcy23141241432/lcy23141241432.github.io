@@ -1,5 +1,5 @@
 ---
-title:  "Watches"
+title:  "청바지"
 subtitle: "The Bigger the better?"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
