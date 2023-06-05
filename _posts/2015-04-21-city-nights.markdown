@@ -1,10 +1,10 @@
 ---
 title:  "바지"
-subtitle: " "
+subtitle: "바지 종류 및 특징"
 author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:   
+date:   "2023-06-05"
 ---
 
 ### 청바지

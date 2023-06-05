@@ -1,10 +1,10 @@
 ---
 title:  "아우터"
-subtitle: " "
+subtitle: "아우터 종류 및 특징"
 author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
-date:   
+date:   "2023-06-05"
 ---
 
 ### 가디건
