@@ -6,9 +6,7 @@ avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 date:   "2023-06-05"
 ---
-
 ###  
-
 ### 청바지
 데님이나 거친 실로 만든 바지.
 
