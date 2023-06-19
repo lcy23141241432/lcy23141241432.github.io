@@ -1,20 +1,35 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "신발"
+subtitle: "신발 종류 및 특징"
+author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   "2023-06-05"
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 스니커즈
+그림 그릴 때 쓰는 그 캔버스 천으로 신발을 만들어서, 커스터 마이징이 쉽다. 그냥 물감을 발라주기만 하면 끝이다.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+천 재질이라 물과 얼음에 매우 취약하다. 주로 봄여름 나들이에 애용된다. 아무리 급해도 장마철, 비 오는 날, 겨울에는 신지 않는 것이 좋다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+슬리퍼처럼 신발 뒷굽이 없는 스타일의 캔버스화도 나오고 있는데, 이런 종류는 뮬(mule)이나 블로퍼라고 부른다.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+캐주얼 또는 스트릿웨어 브랜드, 스케이트 보드를 상징하는 브랜드 등 수많은 브랜드들이 만든 개성 넘치는 다양한 캔버스화가 오늘날에도 출시되고 있다.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 샌들
+슬리퍼와 구분되는 가장 큰 차이점은 발목 밴드가 있느냐의 여부이다. 기본적인 구조는 슬리퍼에 발목을 감싸는 밴드가 달려 있는 모습이다. 위의 사진속의 여성용 샌들이 일반적이다. 즉, 밑창에 발등을 감싸는 부분과 발목을 감싸는 밴드가 조합된 신발을 생각하면 된다. 여기에 추가적으로 다른 끈을 이용해서 연결하여 구조를 더 탄탄하게 만들 수 있다.
+
+일반적으로 발가락을 모두 온전히 드러내는 디자인을 하고 있기 때문에 무좀이나 내향성 발톱 등 발가락에 통풍이 필요하거나 특정 질환을 갖고 있어 꽉 막히는 신발을 영 신을 수 없는 사람들이 잘 신는다.
+
+이러한 특성상 보통 여름에 많이 신으며, 여름에는 등하교하는 여학생이나 복장에 신발까지 철저히 체크하는 업종 종사자를 제외한 대다수의 성인 여성의 신발은 조금 과장을 더해 샌들로 통일된다고 해도 좋을 정도가 된다. 여성용 샌들은 플랫슈즈 형태를 띠는 것도 있으나 하이힐처럼 통굽이 있는 경우도 있으며, 이 경우 토오픈 슈즈와 비슷한 구두의 성격도 띈다. 이러한 여성용 샌들은 캐주얼한 복장부터 드레스까지 다양한 복장과 매칭할 수 있다. 다만 격식을 차려야 하는 비즈니스 수트에는 적합하지 않다. 또한 여성에 비해 맨발에 대한 드레스 코드를 더 엄격하게 적용하는 남성의 경우 매우 캐주얼한 복장이 아니고서는 매칭이 어렵다.
+
+쪼리에 발목 밴드 달린 것부터 시작해서, 등산화에 구멍 좀 뚫어 놓는 수준으로 발을 거의 다 감싸는 트래킹 샌들까지 다양한 형태가 존재한다. 복잡한 구조로 얽힌 끈이 발목 위까지 감싸는 일명 "글래디에이터 샌들" 도 있다.
+
+### 크록스
+2002년 미국의 어느 해변에서 세 명의 청년은 바다에서 서핑을 즐기던 중 한 가지 질문을 던졌다. “물이 잘 빠지는 신발이 있다면 누구나 좋아하지 않을까?” 질문은 사업 아이템이 되었고, 청년들의 생각처럼 사람들의 사랑을 얻었다. 그리고 이제 크록스는 현재 우리가 ‘크록스’ 하면 떠올리는 유명한 샌들을 포함해 슬립온, 스니커즈, 골프화 등 다양한 종류의 샌들을 만드는 신발 회사가 되었다. 물이 잘 빠지는 건 의심할 필요도 없고 말이다.
+
+크록스를 한 번이라도 신어본 사람은 그 가벼운 무게감을 기억할 수밖에 없다. 투박하고 커다란 모양과는 달리 맨발로 걷는 듯 편안함이 인상적인 샌들, 크록스. 대체 뭘로 만들어진 걸까? 창업자들은 크록스를 만들기 위해 폴리우레탄계 합성수지의 일종인 특수 소재를 찾아냈다. 그리고 이 소재를 개발한 회사를 인수하고 소재에 ‘크록스라이트’라는 이름을 붙였다. 오직 크록스를 위한, 크록스에 의한, 크록스의 소재 크록스라이트는 체온에 따라 소재가 유연해지기 때문에 발 모양에 맞게 변한다. 압축되어 있기 때문에 체중의 압력을 잘 버텨 피로함을 줄여주고, 초경량 소재라 무게가 0.17㎏밖에 나가지 않는다. 편하지 않으면 이상한 신발이 아닌가.
+
+크록스의 창업자들은 흘러들어 온 물을 잘 빼기 위해 구멍을 뚫었지만, 그 구멍으로 드나드는 것은 물뿐만이 아니다. 여름철 찜통 같은 신발 속의 온도를 생각해보라. 열기와 습도는 오랜 시간 신발을 신고 일해야 하는 노동자들을 괴롭히고 무좀과 습진을 유발한다. 크록스가 우연히 얻은 통풍 기능은 의사뿐만 아니라 방송국 관계자 등 다양한 직업군이 크록스를 즐겨 찾는 까닭이 되었다.
+
+더러워진 신발을 씻는 건 상당히 골치 아픈 일이다. 바깥에서 이물질이 묻거나 비, 음료수 따위에 푹 젖은 신발은 집에서 제대로 세탁하기 어렵다. 겨우 빨아서 말려보면 원하는 만큼 깨끗해지지 않거나 모양이 변하는 일도 있다. 크록스는 세탁의 부담에서 완벽히 자유로운 신발이다. 소재 특유의 매끄럽고 방수성의 재질 덕분에 물에 잘 헹구었다가 물기를 제거하면 끝이다. 비가 오는 날 외출해야 한다면 크록스를 꺼내자. 단, 젖은 길에서 미끄러지기 쉬우니 조금 주의할 필요는 있다.

@@ -1,20 +1,35 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
-author: "Wferr"
+title:  "상의"
+subtitle: "상의 종류 및 특징"
+author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+date:   "2023-06-05"
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 후드티
+소위 맨투맨 등과 함께 기본적인 캐주얼 상의 아이템 중 하나이며 종류에 따라 지퍼로 앞부분을 개봉했다 닫았다 할 수 있는 후드집업(zip-up)도 있고, 후드에 지퍼나 단추가 달려 분리할 수 있는 것도 있다.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+맨투맨처럼 손목과 밑단에 시보리가 되어 있는 경우가 많다. 색깔은 무난한 회색이 가장 기본적인 컬러색이며 그 외 다양한 색들도 출시되고 있다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+잘 연출하면 귀엽거나 스타일리시해보일 수 있고, 후드가 있다보니 추울 땐 좀 더 유용하다. 겨울철엔 이너로 활용할 수도 있어 후드티에 코트를 덧입는 방식으로 코디할 수도 있다. 여성이 입으면 보이시한 느낌을 살릴 수 있다.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+힙합 계통의 패션에 잘 배치되며 로브가 가지는 캐릭터의 익명성 표현을 대신하는 패션으로 사용되기도 한다. 모자를 푹 눌러써 얼굴을 감추는 모습이 사실상 동일하기 때문. 야구 모자와 결합되어 더욱 그 속성이 강화되기도 한다. 그래서 그런지 범죄자들이라든지 어두운 영역의 캐릭터들이 이 옷을 입고 나오는 식으로 묘사되는 일이 많다. 검은색 후드티 같은 경우에는 잘입으면 가죽재킷과 같은 효과를 볼 수 있다.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 스웨터
+처음 스웨터는 운동복으로, 1920년 초에 선수들이 보온을 위해 입는 니트 울 스웨터로 시작하였다. 허나, 옷이고 운동복이니 땀냄새가 나서 빨긴 빨아야 하는데, 세탁 후에 옷이 줄어드는데다가 말리는 시간도 길어서 매우 비효율적이었다. 그러다 1920년 말, 상황이 변하기 시작한다.
+
+러셀이라는 미국의 의류 업체에서 단순한 디자인에 두꺼운 스웨터를 제조·판매하기 시작했다. 처음에는 필라델피아의 한 유통업자에게 보냈고, 그 유통업자는 러셀의 시제품을 지역 축구팀 네 곳에 보냈다. 결과는 성공적이었다. 옷은 단숨에 매진되었고, 축구선수들은 물론이고 야구선수와 육상선수들도 러셀의 스웨터를 이용하기 시작했다. 어느새 스웨터는 아마추어와 프로를 가리지 않고 운동선수 사이에선 아주 흔한 의복이 되었다.
+
+스웨터는 또다른 상승기류에 타는데, 챔피온이란 미국의 브랜드에서 옷에 글자를 새기는 법과 리버스 위브 스웨터라는 빨아도 줄어들지 않는 스웨터, 그리고 스웨터 후드를 개발하였다. 이를 계기로 스웨터는 일반인들 사이에서도 인기를 끌게 되었다. 또한, 스티브 맥퀸이 '대탈주'라는 영화에서 스웨터를 가죽 재킷과 함께 입고 출연했는데, 덕분에 스웨터를 찾는 사람들이 더 늘어나게 되었다. 이로 인해 스웨터의 인기는 더욱 늘어나게 된다. 이후 1980년대에 패션 디자이너들이 스웨터를 적극 애용하며, 스웨터는 스포츠 의류에서 평상복으로 완벽히 탈바꿈하게 된다.
+
+### 셔츠/블라우스
+와이셔츠라는 말은 일본에서 White shirts가 변형되어 유래된 것이고, 일반적으로 정장 안에 입는 와이셔츠는 영어로는 셔츠, 화이트 셔츠 또는 드레스 셔츠라고 지칭하는 것이 일반적이다.
+
+정장보다는 캐주얼한 복식으로서 입는 셔츠들은 '캐주얼 셔츠'라 하며, 한국 내 한정 '남방'이라고도 한다.
+
+셔츠의 여러 형태로는 화이트셔츠, 알로하셔츠, 폴로셔츠, 헨리셔츠 등이 있다.
+
+블라우스의 어원은 프랑스어로 헐렁한 옷이라는 뜻의 블루즈(Blouse)가 변형된 것이다.
+
+이름에서 알 수 있듯, 처음에는 어깨에서 허리까지 내려오는 헐렁한 상의를 총칭하는 말이었다. 처음 만들어진 당시에는 남자도 많이 입었다. 게다가 그때 당시 블라우스는 화려하기 짝이없는 레이스 장식 등이 치렁치렁 달린 물건이 많았다. 남자의 블라우스 착용은 20세기 초반까지도 드물지 않았는데, 대표적으로 캔디 캔디의 남자캐릭터들 평상복 상의가 블라우스. 여성복 기준으로도 굉장히 화려한 레이스 장식 블라우스를 입는다.

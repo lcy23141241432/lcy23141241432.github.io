@@ -1,20 +1,35 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+title:  "바지"
+subtitle: "바지 종류 및 특징"
+author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   "2023-06-05"
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 청바지
+데님이나 거친 실로 만든 바지.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+바지는 크게 청바지와 면바지, 모직바지로 구분된다고 봐도 무방할 정도로 엄청나게 많은 사람들이 청바지를 입고 있다. 다만 면 100%가 아닌 혼방도 면바지로 취급되기 때문에 청바지는 어찌보면 면바지의 하위개념이다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+원칙적으로 진(jeans)은 데님(denim)으로 만들며 데님의 특성상 앞면과 뒷면의 색이 조금씩 차이가 난다. 하지만 청바지가 대중화되면서 뜻이 확장되어 원칙적으로 데님이 아니더라도 거친 실로 만들면 청바지라 부르기도 한다.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+종류로는 나팔바지, 스키니, 테이퍼드, 스트레이트, 슬림, 와이드, 배기 등 많은 종류가 있다.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 슬랙스
+정장 바지와 비슷한 디자인으로 정장 바지보다 활동성을 더 좋게 개량한 캐주얼 바지. Slacks라는 단어는 현대 영어권에서는 잘 쓰이지 않고 대신 'casual pants(trousers)'라고 한다.
+
+슬랙스는 정장 바지와 비슷한 디자인을 가지면서도 정장 바지보다 편한 캐주얼 바지를 뜻한다. 그래서 특정 바지 종류를 슬랙스라고 부르는 것이 아니라 기성복 바지 중에서 정장 바지와 비슷하게 생겼으면 슬랙스라고 할 수 있다. 실제 맞춤정장은 같은 색의 상하의 세트로 구성되어있으며, 세탁도 번거롭고 드레스 코드가 정장으로 고정된 장소가 아니라면 입기가 부담스럽다.
+
+옷감은 정장바지와 질감이 비슷하면서도 더 편한 소재를 사용한다. 정장은 양모와 같은 모직을 기본 소재로 하여 제작하지만, 슬랙스는 면(코마사), 폴리에스테르, 레이온, 스판덱스 등 특별히 소재에 구애받지 않는다. 그래서 드라이클리닝을 해야 하는 정장과 달리 다른 기성복처럼 세탁이 편하다. 그러나 정장 바지와 비슷하게 매끄럽고 광택있는 질감으로 만들어서 청바지에 쓰는 데님이나 츄리닝에 쓰는 저지 보다 포멀한 느낌을 준다.
+
+디자인은 정장바지와 비슷하다. 정장 바지처럼 웨이스트 밴드(waistband), 플라이(fly), 벨트 루프(belt loop), 플리츠(pleats), 크리스(crease), 포켓 등을 갖추고 있다. 핏은 정장 바지 핏을 기준으로 폭이 같거나 약간 더 넓은 핏이며, 기장은 정장 바지처럼 발목 높이에 오거나 약간 더 짧다.
+
+위와 같은 특징 덕분에 슬랙스는 테일러드 재킷처럼 아무 옷이나 같이 입어도 깔끔하고 무난하게 어울린다는 장점이 있다. 그래서 일상적으로 청바지와 더불어서 많이 입는 옷이며, 사무직 비즈니스 캐주얼 복장으로도 적합한 옷이다.
+
+### 카고팬츠
+카고팬츠는 여유로운 실루엣일 보여주며 유래부터가 군복과 워크웨어 였기에 다리의 편한 활동성을 보장해준다. 와이드 청바지와는 또 다른 편안함을 준다.
+
+카고팬츠는 립스탑 방식을 많이 쓰고 있다. 물론 나일론 등 지금은 다양한 소재를 사용한다. 하지만 기본적으로 립스탑 방식을 많이 채택하는데 이 방식이 내구성이 매우 뛰어나다. 립스탑이란 원사를 3~5mm 정도의 일정한 간격으로 이중 또는 다중으로 겹치게 직조하여 작은 바둑판 무늬가 나타나도록 만드는 일이다. 이는 내구성이 뛰어나며 한 블록씩 찢어서 사용할 수 있으므로 직물의 손상을 최소화할 수 있다는 장점이 있다. 그렇기 때문에 카고팬츠는 기본적으로 다른 팬츠들에 비해 내구성이 좋다고 볼 수 있다. 
+
+카고 팬츠는 기본적으로 일반 팬츠에 비해 포켓이 2개나 더 있기에 수납공간으로 활용성이 좋다. 주머니에 넣기 부담스러웠던 지갑이나 핸드폰 외에도 립밥 핸드크림 같은 작은 소지품도 충분히 보관이 가능하다. 팬츠의 소재 디자인에 따라 소지품을 넣어도 포켓의 디자인이 크게 이상하지 않을 수도 있기에 충분히 활용도가 좋다.

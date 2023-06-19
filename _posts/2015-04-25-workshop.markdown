@@ -1,20 +1,22 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
+title:  "모자"
+subtitle: "모자 종류 및 특징"
+author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   "2023-06-05"
 ---
+###  
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### 스냅백
+사이즈 조절 부분이 똑딱 단추를 길게 늘어놓은 스냅(Snap)으로 되어 있는 모자를 말한다. 머리를 깊게 감싸주며 앞 챙이 판판한 것이 특징이다. 살짝 삐딱하게, 혹은 거꾸로 쓰는 경우가 많으며 힙합 패션처럼 자유분방한 룩에 자주 사용된다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+### 캠프캡
+언뜻 보기에 스냅백과 비슷하게 생긴 캠프캡은 사이즈 조절 부분이 스트랩으로 되어 있다. 또한 모자가 얕아 머리 위로 살짝 얹듯이 착용하며, 각진 형태인 스냅백과 달리 부드럽고 둥근 스타일이라 얼굴형에 구애받지 않고 누구나 멋스럽게 즐길 수 있다.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### 볼캡
+캠프캡과 마찬가지고 머리 부분이 얕은 것이 특징인 볼캡은 챙이 짧고 야구모자처럼 살짝 휘어진 것이 특징이다. 스냅백은 화려한 컬러와 패턴, 캠프캡은 모노톤이 주를 이루지만, 볼캡은 파스텔 톤으로도 대거 출시돼 봄·여름에 산뜻하게 쓰기 좋다.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 비니
+작고 챙이 없으며 두건처럼 머리에 꼭 맞도록 쓰는, 주로 털실 재질의 모자. 보온성을 크게 높여주는 효과가 있다. 고로 추운 야외 활동 시, 보온성을 늘리기 위해 사용하는 빙상 스포츠 용품이기도 하다. 머리를 감지 않았다던가 새집이 졌다던가 하는 이유로 머리 상태가 안 좋을 때 가리기 위한 용도로 쓰이기도 한다.

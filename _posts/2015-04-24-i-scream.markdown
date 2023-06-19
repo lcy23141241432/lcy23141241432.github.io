@@ -1,20 +1,18 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "상의"
+subtitle: "상의 종류 및 특징"
+author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   "2023-06-05"
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### 티셔츠
+명확한 기원은 알려져 있지 않다. 다만 한 설에 의하면, 1890년 영국의 빅토리아 여왕이 군함 검열을 하기 전 함장이 소매없는 속옷을 입은 선원들의 겨드랑이 털을 보고 불쾌함을 느낄 것을 우려해 짧은 소매를 윗옷 겨드랑이에 꿰매도록 지시했다는 이야기가 있다. 이후 여차저차해서 티셔츠는 제1·2차 세계대전 군인들의 속옷으로 자리잡게 된다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+특히 제2차 세계 대전에서 승리한 미군들이 고향에 티셔츠를 가져가면서, 이 옷은 승리의 상징으로 각광을 받게 됐다고 한다. 그리고 미 해군이 단체복으로 많은 주문을 하는 등 이후 본격적으로 티셔츠가 미국에 조금씩 상륙하게 된다. 이때 옷 모양이 T를 닮았다고 하여 티셔츠(T-Shirt)라고 불리게 되었다고 한다.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 기능성 티
+일반 폴리에스테르 섬유보다 1/1000정도의 가늘기로 실을 뽑아 만든 섬유를 말한다. 일반 티셔츠와 달리 방수성 및 땀배출이 쉽게 될 수 있도록 만들어졌다. 
+소재 또한 통풍이 잘 된다,

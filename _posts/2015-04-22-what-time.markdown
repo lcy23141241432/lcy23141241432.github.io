@@ -1,20 +1,24 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
+title:  "아우터"
+subtitle: "아우터 종류 및 특징"
+author: "ChanYoung"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+date:   "2023-06-05"
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 가디건
+그 범주는 상당히 넓지만, 한국에서는 보통 'V넥에 단추 달린 가디건'을 의미하는 경우가 대부분이다. 소재는 울, 면, 아크릴, 폴리에스터 등 다양하고, 두께는 계절마다 다양하게 나오는 편. 물론 여름에는 잘 안입긴 하지만 알고보면 에어컨 틀어놓은 실내 등에서 유용한 마나 폴리 소재 등의 얇은 가디건도 제법 판다. 실제 돌아다녀보면 특히 여성들의 경우 마트 등에서 꽤 입고 다니는 것을 알 수 있을 것이다. 다만 이 경우는 여름이니만큼 세탁하기 편한 소재로 고르는게 좋다. 본인에게 맞는 사이즈와 길이, 핏과 색만 잘고르면 유행도 잘 안타고 나름 오래 입을 수 있는 패션.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+세탁을 잘해야 된다. 소재나 질에 따라 다르긴 하지만, 잘못하면 옷이 늘어나거나 쪼그라들 수도 있으니 주의 사항 잘 보고 세탁하자. 다만 울 가디건 같은 경우 린스를 이용하면 다시 늘릴 수도 있긴 하다(원래 사이즈가 작은거면 안된다). 또 사이즈가 커서 일부러 쪼그라들게 하는 경우도 있는데, 이것도 소재에 따라 전혀 안 줄어드는 경우도 있고 오히려 잘못 하다간 변색 등으로 옷만 버릴 수도 있으니 주의하고 애초에 사이즈 맞는 옷을 사자. 또 세탁 후 가디건이 물을 많이 머금고 있을 땐 처짐을 방지하기 위해 옷걸이에 걸어서 널지 말고 뉘어서 말리는 것이 좋다.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+### 집업
+후드티에 지퍼가 달린 것을 후드집업이라 부른다.
+지퍼가 있어 입고 벗는 것이 쉽기 때문에 사실상 외투로 취급되며 일교차가 심한 봄철과 가을철에 많이 입고 다닌다.
+코디를 할 때는 단독으로 입기보다 레이어드라 해서 이너와 아우터 중간에 껴입는 방식으로 활용하는 경우가 많다.
+후드티와 마찬가지로 회색이 가장 기본적인 컬러색이며 그 외 다양한 색들도 출시되고 있다
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### 코트
+소재에 따라서 옷의 느낌이 매우 차이나는 제품이다. 쉽게 말해서, 모나 캐시미어의 함유량에 따라서 코트의 느낌이 매우 다르다. 모보다 폴리의 비중이 비슷하거나, 더 많다면 좀 더 함유량이 많은 코트와 비교시 고급스러운 맛이 매우 떨어진다. 이러다 보니, 코트를 살때는 두고 두고 입을 수 있게 다소간 출혈이 있더라도 모직(wool)으로 된 고급 코트를 구매를 할 것을 추천하는 사람이 많다. 잘 보관하면 수십 년을 입을 수 있다. 심지어 코트는 그다지 유행을 타지도 않는다. 시즌별로 핫한 디자인 타입이 있기는 하지만, 유행이 아닌 타입의 것을 입어도 촌스럽다든가 이상하다는 소리는 듣지 않는 의류다. 무난하게 괜찮은걸 하나 사면 정말 두고두고 입을 수 있다. 다만 모직은 눌리면 변형되고 좀벌레에 약하므로 벌레 안 꼬이게 옷장에 약을 넣고 눌리지 않게 충분히 공간을 두어 보관하며, 종종 바람과 햇빛을 쏘여 주는 것이 좋다.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+간혹 디자인이 마음에 든다는 이유로 남성이 여성용 코트를, 여성이 남성용 코트를 구입하는 경우가 있는데, 디자인 외에도 서로간에 핏이나 실루엣이 전혀 다르니 주의가 필요하다. 남성용 코트는 착용시 어깨가 강조되고 밑으로 뚝 떨어지는 직사각형이나 역삼각형의 듬직한 실루엣으로 만들어지는 반면, 여성용은 어깨가 강조되지 않고 밑으로 갈수록 넓어지는 삼각형 모양의 아담하고 귀여운 실루엣이 나오는게 일반적이다.
